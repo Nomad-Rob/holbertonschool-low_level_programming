@@ -1,31 +1,31 @@
 #include "main.h"
 /**
  * print_rev - print string to console in reverse
- * @s: string to reverse print
+ * @str: string to reverse print
  *
  *
  *
  */
 
-void print_rev(char *s)
+void print_rev(char *str)
 {
 	int i;
 	int count = 0;
 
-	while (*s != '\0')
+	while (*str != '\0')
 	{
-		s++;
+		str++;
 		count++;
 	}
 	for (i = count; i >= 0; --i)
 	{
 		if (i == count)
 		{
-			--s;
+			--str;
 			continue;
 		}
-		_putchar(*s);
-		--s;
+		_putchar(*str);
+		--str;
 	}
 	_putchar('\n');
 
