@@ -3,9 +3,9 @@
 #include "stdio.h"
 
 /**
-* main - 
-* argc: counts the number of arguments
-* argv: array of strings
+* main - prints out the arguements themselves
+* @argc: counts the number of arguments
+* @argv: array of strings
 *
 * Return: 0
 */
