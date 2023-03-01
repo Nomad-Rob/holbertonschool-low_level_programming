@@ -1,7 +1,6 @@
 #ifndef DOG_H
 #define DOG_H
 
-/* structs & typedefs */
 /**
  * struct dog - structure for dog that contain name,age, and owner variables
  * @name: string containing dog's name
