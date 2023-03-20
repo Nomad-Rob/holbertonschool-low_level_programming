@@ -1,5 +1,4 @@
 #include "lists.h"
-#include <stdlib.h>
 /**
  * listint_len - returns number of elements in listint_t list
  * @h: head of listint_t list
