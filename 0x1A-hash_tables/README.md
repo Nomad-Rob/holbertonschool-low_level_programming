@@ -11,3 +11,6 @@ You are allowed to use the C standard library
 The prototypes of all your functions should be included in your header file called hash_tables.h
 Don’t forget to push your header file
 All your header files should be include guarded
+
+
+I tried using a local repo and work on it without the use of internet during this project. It worked pretty well using the local repo. I was able to compile and run the code. However, when I tried to push it. I also will upload exe files seperate.
