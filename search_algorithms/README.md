@@ -29,3 +29,7 @@ sqrt n -> O(sqrt(n))
 log(n) -> O(log(n))
 n * log(n) -> O(nlog(n))
 …
+
+
+https://en.wikipedia.org/wiki/Linear_search
+https://en.wikipedia.org/wiki/Binary_search_algorithm
